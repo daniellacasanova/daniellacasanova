@@ -5,12 +5,6 @@
 - 🌕 How to reach me via https://sites.google.com/view/daniella-casanova/contact 
 - 🌖 Fun fact: Co-founded Entomology Society at USF, the first bug focused club at the University of South Florida
 
-- ⠀⠀⠀⠀⠀⢀⣀⡀⠘⢀⣀⠀⣀⠀⠀⠀⠀⣠⡀
-⠠⡪⠁⠄⢀⠟⠁⠀⠀⠀⠈⠢⠀⠀⠙⠁
-⠀⠑⠄⡑⢌⡀⠀⠀⠀⠀⠀⠀⡗⠠⡀⠀
-⠀⠀⠀⠈⠒⡬⢐⠢⠄⣀⠀⢠⠃⠱⡈⠢
-⠀⠀⠀⠀⠀⠈⠒⠨⠥⠶⠆⠩⠭⠥⠤⠐
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢰⡧⠀⠀⠀⠀
 
 <!---
 daniellacasanova/daniellacasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
