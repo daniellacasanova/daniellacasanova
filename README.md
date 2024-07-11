@@ -1,4 +1,4 @@
-***‧͙⁺˚*･༓ ☾ About ☽ ༓･*˚⁺‧͙*** 
+‧͙⁺˚*･༓ ☾ About ☽ ༓･*˚⁺‧͙
 - 🌒 Howdy all, my name is Daniella Casanova
 - 🌓 I’m interested in anthropology, cultural astronomy, & natural resources 
 - 🌔 I’m currently learning 3D computer-aided-design (CAD) on SolidWorks
